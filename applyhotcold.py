@@ -2,7 +2,6 @@
 bar = 2d array
 hotSites = list of Coordinates of hot
 coldSites = list of coordinates of cold
-
 """
 def applyHotCold(bar, hotSites, coldSites):
     newBar = bar
